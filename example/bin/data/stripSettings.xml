@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Strip_control>
+	<strip_1_>
+		<Pulse_colour>255, 186, 0, 255</Pulse_colour>
+		<Background_colour>255, 17, 33, 255</Background_colour>
+		<Gradient_fade_Width>64</Gradient_fade_Width>
+		<Gradient_ramp_Width>27</Gradient_ramp_Width>
+		<Gradient_hold>10</Gradient_hold>
+		<Gradient_speed>1</Gradient_speed>
+	</strip_1_>
+	<strip_2_>
+		<Pulse_colour>14, 255, 0, 255</Pulse_colour>
+		<Background_colour>140, 3, 120, 255</Background_colour>
+		<Gradient_fade_Width>74</Gradient_fade_Width>
+		<Gradient_ramp_Width>32</Gradient_ramp_Width>
+		<Gradient_hold>10</Gradient_hold>
+		<Gradient_speed>0.612339</Gradient_speed>
+	</strip_2_>
+	<strip_3_>
+		<Pulse_colour>255, 165, 0, 255</Pulse_colour>
+		<Background_colour>0, 29, 253, 255</Background_colour>
+		<Gradient_fade_Width>85</Gradient_fade_Width>
+		<Gradient_ramp_Width>25</Gradient_ramp_Width>
+		<Gradient_hold>35</Gradient_hold>
+		<Gradient_speed>0.612339</Gradient_speed>
+	</strip_3_>
+	<strip_4_>
+		<Pulse_colour>253, 255, 210, 255</Pulse_colour>
+		<Background_colour>0, 0, 0, 255</Background_colour>
+		<Gradient_fade_Width>62</Gradient_fade_Width>
+		<Gradient_ramp_Width>23</Gradient_ramp_Width>
+		<Gradient_hold>16</Gradient_hold>
+		<Gradient_speed>0.765399</Gradient_speed>
+	</strip_4_>
+	<strip_5_>
+		<Pulse_colour>6, 6, 7, 255</Pulse_colour>
+		<Background_colour>176, 184, 114, 255</Background_colour>
+		<Gradient_fade_Width>71</Gradient_fade_Width>
+		<Gradient_ramp_Width>15</Gradient_ramp_Width>
+		<Gradient_hold>41</Gradient_hold>
+		<Gradient_speed>1</Gradient_speed>
+	</strip_5_>
+</Strip_control>

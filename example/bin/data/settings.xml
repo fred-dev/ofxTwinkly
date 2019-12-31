@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<color>255, 255, 255, 255</color>
+	<gradientCentre>500</gradientCentre>
+	<gradientBarwidth>10</gradientBarwidth>
+	<Pulse_colour>44, 140, 0, 255</Pulse_colour>
+	<Background_colour>140, 108, 0, 255</Background_colour>
+	<Gradient_centre>500</Gradient_centre>
+	<Gradient_bar_width>10</Gradient_bar_width>
+	<Gradient_fade_Width>10</Gradient_fade_Width>
+	<Gradient_ramp_Width>3</Gradient_ramp_Width>
+	<Gradient_hold>10</Gradient_hold>
+</group>
